@@ -7,3 +7,5 @@ Desarollo delñ tp nº1
 2. Lucas Montes - usuario: Lucas522
 >>>>>>> 25feb941e3410d42d59906ba1a997186c3544ac0
 3. Gutierrez Nanda Mauro Nahuel - usuario: MauroNanda
+4. Glenda Sofia Verdeja - usuario: sofiver2023
+
