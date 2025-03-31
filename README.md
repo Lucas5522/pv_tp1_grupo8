@@ -6,3 +6,5 @@ Desarollo delñ tp nº1
 1. Maximiliano Sarapura - usuario maxisarapura
 2. Lucas Montes - usuario: Lucas522
 3. Gutierrez Nanda Mauro Nahuel - usuario: MauroNanda
+4. Glenda Sofia Verdeja - usuario: sofiver2023
+
