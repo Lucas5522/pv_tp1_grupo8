@@ -7,4 +7,4 @@ Desarollo delñ tp nº1
 2. Lucas Montes - usuario: Lucas522
 3. Gutierrez Nanda Mauro Nahuel - usuario: MauroNanda
 4. Glenda Sofia Verdeja - usuario: sofiver2023
-
+5. Garcia Andres Alvaro - usuario: Andres3704
