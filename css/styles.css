@@ -53,6 +53,16 @@ main {
     color: black;
 }
 
+aside {
+    text-align: center;
+    margin-top: 20px;
+}
+
+aside img {
+    max-width: 100%;
+    height: auto;
+}
+
 footer {
     text-align: center;
     padding: 10px;
