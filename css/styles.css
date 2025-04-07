@@ -1,22 +1,38 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    background-image: url('https://img.freepik.com/vector-gratis/textura-marmol-gris_1100-155.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 header {
     text-align: center;
-    padding: 20px;
-    background-color: #f2f2f2;
+    padding: 0px;
 }
+.imagen-destacada img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.bienvenida {
+    max-width: 1200px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333;
+}
+
 
 .navbar {
     display: flex;
     justify-content: center;
     gap: 20px;
-    background-color: #e0e0e0;
     padding: 10px;
 }
 
@@ -42,10 +58,43 @@ main {
     margin-top: 20px;
 }
 
-#lista-museos li {
+#lista-museos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.museo-card {
     border: 1px solid #ccc;
+    border-radius: 8px;
     text-align: center;
     padding: 10px;
+    background-color: #fff;
+}
+
+.museo-card img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.museo-card h3 {
+    font-size: 1rem;
+    margin: 8px 0;
+}
+
+.museo-card p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.museo-card a {
+    color: black;
+    text-decoration: none;
 }
 
 #lista-museos a {
