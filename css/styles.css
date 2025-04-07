@@ -60,17 +60,18 @@ header {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: black;
+    color: rgb(40, 69, 185);
     font-weight: bold;
     border: 2px solid rgba(0, 0, 0, 0.1);
     border-radius: 6px;
     padding: 10px;
     margin: 4px 8px;
     transition: all 0.3s;
+    text-shadow: #0267f5;
 }
 
 .navbar a:hover {
-    border-color: #75aadb;
+    border-color: #0267f5;
 }
 
 main {
